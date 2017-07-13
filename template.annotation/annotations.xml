@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+	<event startTimeInterval="1.001" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="1" image="images/dummy.jpg"><category name="1"></category>
+	</event>
+	<event startTimeInterval="2.093" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="3" image="images/dummy.jpg"><category name="3"></category>
+	</event>
+	<event startTimeInterval="8.596" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="2" image="images/dummy.jpg"><category name="2"></category>
+	</event>
+	<event startTimeInterval="40.745" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="-1" image="images/dummy.jpg"><category name="-1"></category>
+	</event>
+	<event startTimeInterval="44.529" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="4" image="images/dummy.jpg"><category name="4"></category>
+	</event>
+	<event startTimeInterval="76.647" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="-1" image="images/dummy.jpg"><category name="-1"></category>
+	</event>
+	<event startTimeInterval="81.268" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="4" image="images/dummy.jpg"><category name="4"></category>
+	</event>
+	<event startTimeInterval="113.396" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="-1" image="images/dummy.jpg"><category name="-1"></category>
+	</event>
+	<event startTimeInterval="149.23" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="2" image="images/dummy.jpg"><category name="2"></category>
+	</event>
+	<event startTimeInterval="220.886" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="3" image="images/dummy.jpg"><category name="3"></category>
+	</event>
+	<event startTimeInterval="253.011" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="1" image="images/dummy.jpg"><category name="1"></category>
+	</event>
+	<event startTimeInterval="270.894" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="2" image="images/dummy.jpg"><category name="2"></category>
+	</event>
+	<event startTimeInterval="303.031" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="1" image="images/dummy.jpg"><category name="1"></category>
+	</event>
+	<event startTimeInterval="310.125" start="December 9 9999 00:00:00 GMT-0800" annotation-modificationDate="December 9 9999 00:00:00 GMT-0700" annotation-modificationUser="Basolateral" annotation-category="4" image="images/dummy.jpg"><category name="4"></category>
+	</event>
+</data>
